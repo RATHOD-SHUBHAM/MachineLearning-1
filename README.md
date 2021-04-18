@@ -38,7 +38,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
         In contrast, unsupervised machine learning algorithms are used when the information used to train is neither classified nor labeled. 
 
 ## Reinforcement Machine Learning:
-    Reinforcement Machine Learning algorithms is a learning method that interacts with its environment by producing actions and discovers errors or rewards.
+   Reinforcement Machine Learning algorithms is a learning method that interacts with its environment by producing actions and discovers errors or rewards.
     
     
     
