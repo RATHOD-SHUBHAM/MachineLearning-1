@@ -15,6 +15,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
     8. Recommendation System.
     9. Support Vector Machine.
     10. Percentage of survival on Titanic.
+    11. Face Detection Using Tensor.js
 
 
 
