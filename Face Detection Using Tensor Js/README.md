@@ -19,3 +19,24 @@ With TensorFlow.js we can develop ML models in JavaScript, and use ML directly i
 
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/blazeface"></script>
+
+## MediaDevices.getUserMedia()
+Gives access to web cam & video feed.
+
+The MediaDevices.getUserMedia() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media.
+
+That stream can include, for example, a video track , an audio track , and possibly other track types.
+
+It returns a Promise that resolves to a MediaStream object. If the user denies permission, or matching media is not available, then the promise is rejected with NotAllowedError or NotFoundError respectively.
+
+
+## Step Performed:
+  1. Get access to web cam & video feed using getUserMedia() api.
+  2. Detect Face using TensorFlow.js.
+  3. Make Predection using blazeface.
+  4. Dispaly Result.
+
+
+## Run:
+    Install live Server or nodemon.
+Open index.html on web browser.
