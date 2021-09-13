@@ -1,5 +1,7 @@
 # Face Detection On Browser Using TensorFlow.js
 
+[YouTube](https://youtu.be/O62iUMlP_Jc)
+
 With TensorFlow.js we can develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
 
 ## How it Works
