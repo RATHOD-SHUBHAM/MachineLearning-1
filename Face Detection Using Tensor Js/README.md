@@ -19,8 +19,8 @@ With TensorFlow.js we can develop ML models in JavaScript, and use ML directly i
 
 ### Standalone Script tag:
 
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/blazeface"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/blazeface"></script>
 
 ## MediaDevices.getUserMedia()
 Gives access to web cam & video feed.
