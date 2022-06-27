@@ -45,6 +45,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
     
     
     
-
+# Image Semantic Segmentation.
+<img width="1405" alt="op" src="https://user-images.githubusercontent.com/58945964/175865788-7fb0a3ff-4d34-4d9a-8317-e543a756b5ef.png">
 
 
