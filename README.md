@@ -17,6 +17,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
     10. Percentage of survival on Titanic.
     11. Face Detection Using Tensor.js
     12. Complete ML PipeLine Project.
+    13. Semantic Image Segmentation.
 
 
 
