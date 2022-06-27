@@ -12,3 +12,7 @@ Steps:
 3. We apply segmentation (labels) map and gaussian blur. 
 4. we also apply custom background using the same technique.
 
+output:
+<img width="1405" alt="op" src="https://user-images.githubusercontent.com/58945964/175862689-8c65a87d-ab32-43f4-a6fa-5b35cda072e2.png">
+
+Thanks Vinayak Nayak.
