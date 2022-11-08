@@ -1,0 +1,13 @@
+prefix=/Users/shubhamrathod/Desktop/untitled folder/Machine-Learning/EndToEndMl/venv
+exec_prefix=/Users/shubhamrathod/Desktop/untitled folder/Machine-Learning/EndToEndMl/venv
+libdir=/Users/shubhamrathod/Desktop/untitled folder/Machine-Learning/EndToEndMl/venv/lib
+sharedlibdir=/Users/shubhamrathod/Desktop/untitled folder/Machine-Learning/EndToEndMl/venv/lib
+includedir=/Users/shubhamrathod/Desktop/untitled folder/Machine-Learning/EndToEndMl/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
