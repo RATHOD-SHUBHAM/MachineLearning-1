@@ -9,15 +9,17 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
     2. Detection Of Malicious URl using lexical analysis.
     3. Hungarian Algorithm.
     4. K Means.
-    5. KNN With Different Distance Matrix.
-    6. Finding the K Nearest Neighbour.
+    5. KNN 
+        i. With Different Distance Matrix.
+        ii. Finding the K Nearest Neighbour.
     7. Naive Bayes.
     8. Recommendation System.
     9. Support Vector Machine.
     10. Percentage of survival on Titanic.
-    11. Face Detection Using Tensor.js
-    12. Complete ML PipeLine Project.
-    13. Semantic Image Segmentation.
+    11. Complete ML PipeLine Project.
+    12. Kaggle Work.
+    13. Class ML notebook for concepts and techniques.
+
 
 
 
