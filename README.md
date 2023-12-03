@@ -2,7 +2,7 @@
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
 
-![recommendation](https://user-images.githubusercontent.com/58945964/115156313-44aa4b80-a049-11eb-9084-8d629edde272.png)
+---
 
 ## A curated list of my machine learning projects:
     1. Finding Centroid.
@@ -43,9 +43,14 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
         In contrast, unsupervised machine learning algorithms are used when the information used to train is neither classified nor labeled. 
 
 ## Reinforcement Machine Learning:
-   Reinforcement Machine Learning algorithms is a learning method that interacts with its environment by producing actions and discovers errors or rewards.
+   Reinforcement Machine Learning algorithms are a learning method that interacts with its environment by producing actions and discovering errors or rewards.
+
+![recommendation](https://user-images.githubusercontent.com/58945964/115156313-44aa4b80-a049-11eb-9084-8d629edde272.png)
     
-    
+## Computer Vision
+
+![Computer Vision Roadmap](https://github.com/RATHOD-SHUBHAM/Machine-Learning/assets/58945964/8aa6711f-4a84-466a-8d37-c1f2ad7611a3)
+
     
 # Image Semantic Segmentation.
 <img width="1405" alt="op" src="https://user-images.githubusercontent.com/58945964/175865788-7fb0a3ff-4d34-4d9a-8317-e543a756b5ef.png">
